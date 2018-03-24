@@ -1,0 +1,41 @@
+ p
+{
+   margin-bottom: 12px; /* отступ снизу */ 
+}
+
+h1, h2, h3
+{
+     max-width: 400px; /*вес шрифта*/
+     margin-bottom: 0px; /* отступ снизу */ 
+}
+h1
+{
+    font-size: 36px;
+}
+
+h2
+{
+    font-size: 32px;
+    border-bottom-style: solid;   /* тип линии (сплошная) */ 
+    border-bottom-width: 1px;   /* толщина линии снизу */ 
+    border-bottom-color: gray; /* цвет линии снизу */ 
+    margin-bottom: 8px; /* отступ снизу */ 
+}
+
+h3
+{
+    font-size: 20px;
+
+}
+
+#header 
+{
+ margin-bottom: 32px;
+ text-align: center;
+}
+
+#footer
+{
+    margin-top: 64px;
+    text-align: center;
+}
